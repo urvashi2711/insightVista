@@ -50,11 +50,7 @@ The final output of the python dashboard using pandas,numpy,matplotlib and seabo
 
 **Language** - Python 3.10
 
-# Article 
 
-The project has been published as an article in *Medium*, to which the link is provided below.  
-        
-           https://medium.com/@vasudevanswornampillai/developing-a-data-analysis-dashboard-using-python-libraries-121cf1b80437?source=friends_link&sk=e0978a7d63285664ab3ec6bd2ecec794
 
 # Share with the community
 
